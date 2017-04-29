@@ -6,13 +6,33 @@
 
 ## Relationship Among Classes:
 ## Dependency
+* Used to avoid tight coupling. See dependency injection.
+* Enable loose coupling.
+* Dog is passed to WashedAnimal only for a method. It might be discarded within the method.
+* A dependency is a semantic connection between dependent and independent model elements.
+* It exists between two elements if changes to the definition of one element (the server or target) may cause changes
+to the other (the client or source).
+* This association is uni-directional.
+* Often not shown.
 <p align="center">
   <img src="assets/dependence.png?raw=true" width="450"/>
 </p>
 
 ## Association
+* One class knows about the other without being directly dependent, e.g. using attributes.
+* A binary association (with two ends) is normally represented as a line. Usually shown with a line without arrows.
+* For instance, Teacher and Student and related through school without being dependent.
 <p align="center">
   <img src="assets/association.png?raw=true" width="450"/>
+</p>
+
+* An association can link any number of classes. An association with three links is called a ternary association.
+* An association can be named, and the ends of an association can be adorned with role names, ownership indicators,
+multiplicity, visibility, and other properties.
+* There are four different types of association: bi-directional, uni-directional, aggregation (includes composition
+aggregation) and reflexive. Bi-directional and uni-directional associations are the most common ones.
+<p align="center">
+  <img src="assets/binary-association.png?raw=true" width="350"/>
 </p>
 
 ## Aggregation
@@ -34,11 +54,20 @@ In the example below, the SimpleMessage objects are created independently and ad
 ## Composition
 * Strong "Has-A" relationship
 * Represented by a  filled diamond on the container / Whole class.
+<p align="center">
+  <img src="assets/composition.png?raw=true" width="400"/>
+</p>
+
 * Lifecycle of the part / contained class objects is controlled by the composing class.
 Instances of part are created withing the (constructor of the) Composing class and destroyed by (the destructor) of
 the Composing class.
 <p align="center">
-  <img src="assets/composition.png?raw=true" width="400"/>
+  <img src="assets/composition-lifecycle.png?raw=true" width="350"/>
+</p>
+
+* Example
+<p align="center">
+  <img src="assets/composition-example.png?raw=true" width="350"/>
 </p>
 
 * Difference between Aggregation adn Compositon
