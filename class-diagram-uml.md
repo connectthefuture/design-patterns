@@ -7,12 +7,12 @@
 ## Relationship Among Classes:
 ## Dependency
 <p align="center">
-  <img src="assets/dependence.png" width="350"/>
+  <img src="assets/dependence.png?raw=true" width="450"/>
 </p>
 
 ## Association
 <p align="center">
-  <img src="assets/association.png" width="350"/>
+  <img src="assets/association.png?raw=true" width="450"/>
 </p>
 
 ## Aggregation
@@ -22,18 +22,18 @@
 * For instance, Aggregation can occur when a class is a collection or container of other classes, but the contained classes do not have a strong lifecycle dependency on the container. The contents of the container are not automatically destroyed when the container is.
 In the example below, the SimpleMessage objects are created independently and added to the collection in MultiMessage.
 <p align="center">
-  <img src="assets/aggregation.png" width="350"/>
+  <img src="assets/aggregation.png?raw=true" width="350"/>
  </p>
 
 *Example: Library has Students and books. Here the student can exist without library, the relation between student and library is aggregation.
 * Example: Lake has a slide, but the slide can exist independently out of the lake.
 <p align="center">
-  <img src="assets/aggregation-lake.png" width="350"/>
+  <img src="assets/aggregation-lake.png?raw=true" width="350"/>
  </p>
 
 ## Composition
 <p align="center">
-  <img src="assets/composition.png" width="350"/>
+  <img src="assets/composition.png?raw=true" width="350"/>
 </p>
 
 ## Inheritance / Generalization
@@ -44,7 +44,7 @@ In the example below, the SimpleMessage objects are created independently and ad
 
 ### Relation Notation
 <p align="center">
-  <img src="assets/class-notation.png ?raw=true" width="200"/>
+  <img src="assets/class-notation.png?raw=true" width="200"/>
 </p>
 
 ### Example
