@@ -32,8 +32,18 @@ In the example below, the SimpleMessage objects are created independently and ad
  </p>
 
 ## Composition
+* Strong "Has-A" relationship
+* Represented by a  filled diamond on the container / Whole class.
+* Lifecycle of the part / contained class objects is controlled by the composing class.
+Instances of part are created withing the (constructor of the) Composing class and destroyed by (the destructor) of
+the Composing class.
 <p align="center">
-  <img src="assets/composition.png?raw=true" width="350"/>
+  <img src="assets/composition.png?raw=true" width="400"/>
+</p>
+
+* Difference between Aggregation adn Compositon
+<p align="center">
+  <img src="assets/aggregation-vs-composition.png?raw=true" width="400"/>
 </p>
 
 ## Inheritance / Generalization
@@ -54,5 +64,5 @@ In the example below, the SimpleMessage objects are created independently and ad
 
 ## References:
 * https://www.youtube.com/watch?v=5Q0ZM6ODBHw
-* https://www.youtube.com/watch?v=3cmzqZzwNDM
 * https://www.youtube.com/watch?v=BhEoV57nj0Q
+* https://www.youtube.com/watch?v=3cmzqZzwNDM
