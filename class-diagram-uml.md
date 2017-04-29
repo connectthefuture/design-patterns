@@ -45,12 +45,13 @@ In the example below, the SimpleMessage objects are created independently and ad
   <img src="assets/aggregation.png?raw=true" width="350"/>
  </p>
 
-*Example: Library has Students and books. Here the student can exist without library, the relation between student and library is aggregation.
 * Example: Lake has a slide, but the slide can exist independently out of the lake.
 <p align="center">
   <img src="assets/aggregation-lake.png?raw=true" width="350"/>
  </p>
 
+* Example: Library has Students and books. Here the student can exist without library, the relation between student
+and library is aggregation.
 ## Composition
 * Strong "Has-A" relationship
 * Represented by a  filled diamond on the container / Whole class.
