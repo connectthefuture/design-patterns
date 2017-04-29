@@ -15,14 +15,11 @@
 ![Generalization](assets/generalization.png?raw=true "Generalization")
 
 #### Relation Notation
-![Relation Notation](https://en.wikipedia.org/wiki/File:Uml_classes_en.svg "Relation Notation")
+![Relation Notation](assets/class-notation.png "Relation Notation")
 
-
+### Example
+![Example](assets/house-example.png?raw=true "Example")
 ## References:
-
-https://www.youtube.com/watch?v=3cmzqZzwNDM
-
-https://www.youtube.com/watch?v=5Q0ZM6ODBHw // best
-
-https://www.youtube.com/watch?v=BhEoV57nj0Q
-
+* https://www.youtube.com/watch?v=5Q0ZM6ODBHw
+* https://www.youtube.com/watch?v=3cmzqZzwNDM
+* https://www.youtube.com/watch?v=BhEoV57nj0Q
