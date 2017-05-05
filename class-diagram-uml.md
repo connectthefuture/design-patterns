@@ -93,6 +93,7 @@ the Composing class.
 </p>
 
 ## References:
-* https://www.youtube.com/watch?v=5Q0ZM6ODBHw
-* https://www.youtube.com/watch?v=BhEoV57nj0Q
-* https://www.youtube.com/watch?v=3cmzqZzwNDM
+* Murphy's Lecture: https://www.youtube.com/watch?v=5Q0ZM6ODBHw
+* MargretPosch: https://www.youtube.com/watch?v=BhEoV57nj0Q
+* Derek Banas: https://www.youtube.com/watch?v=3cmzqZzwNDM
+* Udacity: https://www.youtube.com/watch?v=LvDtFPcdOkg
