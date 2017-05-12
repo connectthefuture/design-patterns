@@ -12,7 +12,10 @@
 * [A Distributed Systems Reading List](http://dancres.github.io/Pages/)
 * [Scaling Instagram Video](https://www.youtube.com/watch?v=oNA2C1vC8FQ)
 * [Messaging at Scale](https://www.youtube.com/watch?v=E708csv4XgY&t=928s)
-
+* Palantir
+  * [System Design](https://www.palantir.com/2011/10/how-to-ace-a-systems-design-interview/)
+  * [Algorithm](https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/)
+  * [Coding](https://www.palantir.com/2011/10/the-coding-interview/)
 
 
 ## Class Design Patterns
