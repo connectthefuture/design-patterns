@@ -24,14 +24,17 @@ Example hierarchy:
 <p align="center">
   <img src="../../../../../../../assets/composite-uniformity.png?raw=true" width="450"/>
 </p>
-* Estensibility
+
+* Extensibility
 <p align="center">
   <img src="../../../../../../../assets/composite-extensibility.png?raw=true" width="450"/>
 </p>
+
 * Parsimony
 <p align="center">
   <img src="../../../../../../../assets/composite-parsimony.png?raw=true" width="450"/>
 </p>
+
 ## References
 * [YT Video](https://www.youtube.com/watch?v=2HUnoKyC9l0&index=18&list=PLF206E906175C7E07)
 * [SafariOnline](https://www.safaribooksonline.com/library/view/design-patterns-in/9780133489989/5_2.html)
