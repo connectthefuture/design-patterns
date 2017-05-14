@@ -35,6 +35,8 @@ E.g., [Decouple API from Implementation](https://en.wikipedia.org/wiki/Bridge_pa
   <img src="../../../../../../../assets/bridge-use-java-socket.png?raw=true" width="450"/>
 </p>
 
+## Bridge vs Adapter
+* "Adapter makes things work after they're designed; Bridge makes them work before they are. [GoF, p219]"
 
 ## References
 * [SafariOnline](https://www.safaribooksonline.com/library/view/design-patterns-in/9780133489989/5_3.html)
