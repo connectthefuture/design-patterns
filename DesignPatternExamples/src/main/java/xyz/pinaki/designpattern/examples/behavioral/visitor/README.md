@@ -79,3 +79,8 @@ public class PrintVisitor implements Visitor {
 </p>
 
 ## Static Polymorphism
+
+## References
+* [SafariOnline](https://www.safaribooksonline.com/library/view/design-patterns-in/9780133489989/5_8.html)
+* [Wiki](https://en.wikipedia.org/wiki/Visitor_pattern#Java_example)
+* [SourceMaking](https://sourcemaking.com/design_patterns/visitor)
