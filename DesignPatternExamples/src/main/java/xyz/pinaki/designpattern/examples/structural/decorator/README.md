@@ -14,8 +14,7 @@ Use the following Steps (see UML diagram below)
 * In the Decorator class, forward all Component methods to the Component pointer.
 * In the ConcreteDecorator class, override any Component method(s) whose behavior needs to be modified.
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Decorator_UML_class_diagram.svg/758px-Decorator_UML_class_diagram.svg.png
-" width="450"/>
+  <img src="../../../../../../../assets/decorator-uml.png?raw=true" width="450"/>
 </p>
 
 ## Example 
