@@ -19,6 +19,7 @@
 </p>
 
 ## Example
+In code, either have the factory create the objects based on if-else / switch statements or precreate a hashmap as below.
 ~~~java
 public class UserCommandFactory {
     /** 
