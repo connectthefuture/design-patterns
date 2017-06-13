@@ -2,8 +2,8 @@
 Examples of various design patterns
 ### Creational Pattern
 * [Factory Method](DesignPatternExamples/src/main/java/xyz/pinaki/designpattern/examples/creational/factory)
-* [Builder]((DesignPatternExamples/src/main/java/xyz/pinaki/designpattern/examples/creational/builder)
-* [Singleton]((DesignPatternExamples/src/main/java/xyz/pinaki/designpattern/examples/creational/singleton)
+* [Builder](DesignPatternExamples/src/main/java/xyz/pinaki/designpattern/examples/creational/builder)
+* [Singleton](DesignPatternExamples/src/main/java/xyz/pinaki/designpattern/examples/creational/singleton)
 ### Structural patterns
 * [Adapter](DesignPatternExamples/src/main/java/xyz/pinaki/designpattern/examples/structural/adapter)
 * [Bridge](DesignPatternExamples/src/main/java/xyz/pinaki/designpattern/examples/structural/bridge)
