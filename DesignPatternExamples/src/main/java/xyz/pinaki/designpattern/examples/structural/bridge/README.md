@@ -2,7 +2,7 @@
 * The primary function of a Bridge is to decouple an abstraction from its implementation. 
 E.g., [Decouple API from Implementation](https://en.wikipedia.org/wiki/Bridge_pattern#Java).
 <p align="center">
-  <img src="../../../../../../../assets/bridge-why.png?raw=true" width="600"/>
+  <img src="../../../../../../../assets/bridge-why.png?raw=true" width="750"/>
 </p>
 
 * For instance, same API needs to run on mobile vs desktops which have very memory / processing power.
