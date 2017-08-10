@@ -15,18 +15,18 @@ E.g., [Decouple API from Implementation](https://en.wikipedia.org/wiki/Bridge_pa
 
 ## Goals 
 <p align="center">
-  <img src="../../../../../../../assets/bridge-goals.png?raw=true" width="450"/>
+  <img src="../../../../../../../assets/bridge-goals.png?raw=true" width="750"/>
 </p>
 
 ## Bridge Example
 <p align="center">
-  <img src="../../../../../../../assets/bridge-example.png?raw=true" width="450"/>
+  <img src="../../../../../../../assets/bridge-example.png?raw=true" width="600"/>
 </p>
 <p align="center">
-  <img src="../../../../../../../assets/bridge-example-2.png?raw=true" width="450"/>
+  <img src="../../../../../../../assets/bridge-example-2.png?raw=true" width="600"/>
 </p>
 <p align="center">
-  <img src="../../../../../../../assets/bridge-uml.png?raw=true" width="450"/>
+  <img src="../../../../../../../assets/bridge-uml.png?raw=true" width="600"/>
 </p>
 
 ## Application in Java
